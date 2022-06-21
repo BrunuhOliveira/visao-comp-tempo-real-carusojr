@@ -1,5 +1,5 @@
 # Deep Learning e Visão Computacional para Detecção de Imagens
-Detecção de imagem em tempo real utilizando Deep Learning em Florianópolis, utilizando arquitetura MobileNet para redes neurais convolucionais para detecção de magens em tempo real.
+Detecção de imagem em tempo real utilizando Deep Learning em Florianópolis, utilizando arquitetura MobileNet para redes neurais convolucionais para detecção de imagens em tempo real.
 
 Para detecção de imagens, foi utilizado a estratégia de aprendizado supervisionado, onde utilizei os datasets (ImageNet) do Google para obtenção dos dados de entradas e definição das classes de saída.
 

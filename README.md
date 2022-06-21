@@ -37,6 +37,12 @@ Estando o terminal no diretório do arquivo, basta executar o comando:
 
 **python deteccao-tempo-real-caruso.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel**
 
+Para trocar o vídeo, basta abrir o código deteccao-tempo-real-caruso.py e trocar a nomenclatura "video1.mp4" para "video2.mp4" na linha 62, conforme imagem abaixo.
+
+![image](https://user-images.githubusercontent.com/24361738/174702273-4cd450dd-2587-438a-8b71-a6d6ad525756.png)
+
+![image](https://user-images.githubusercontent.com/24361738/174702200-ca61ac33-903b-45d0-9f52-281457e8b103.png)
+
 ## Referências e Fontes:
 
 4K | Dirigindo em Florianópolis - da Ponte a Canasvieiras - Driving 4K Brazil - ep. 70
